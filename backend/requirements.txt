@@ -2,4 +2,4 @@ fastapi
 uvicorn
 openai
 python-dotenv
-sqlite3
+
